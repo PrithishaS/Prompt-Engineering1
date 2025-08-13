@@ -61,6 +61,9 @@ And from that night on, Benny was never afraid of the dark again.
 Final Panel – Moral:
 "Sometimes, the things we fear hide the most beautiful surprises. With friends by your side, you can be braver than you think."
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/71d827eb-5fdb-46db-a1be-939feaadf122" />
+
+
 **RESULT :**
 
 A complete, age-appropriate bedtime story about a bat afraid of the dark, suitable for children aged 5–7.
