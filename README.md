@@ -14,3 +14,5 @@ OUTPUT:
 image image image image image image image image
 RESULT :
 A complete, age-appropriate bedtime story about a bat afraid of the dark, suitable for children aged 5–7.
+
+![images](https://github.com/user-attachments/assets/353d0ddf-f170-473e-8509-15d9d8913dd3)
